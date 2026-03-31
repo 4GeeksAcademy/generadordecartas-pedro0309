@@ -8,7 +8,7 @@ body {
   height: 100vh;
 }
 
-/* Carta */
+/* card */
 .card {
   width: 200px;
   height: 300px;
@@ -19,7 +19,7 @@ body {
   font-size: 40px;
 }
 
-/* Esquinas */
+/* esquinas */
 .top {
   position: absolute;
   top: 10px;
@@ -33,7 +33,7 @@ body {
   transform: rotate(180deg);
 }
 
-/* Número centrado */
+/* num centrado*/
 .middle {
   display: flex;
   justify-content: center;
